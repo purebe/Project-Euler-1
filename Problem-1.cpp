@@ -35,7 +35,7 @@ int main()
 	_list.push_back(3);
 	_list.push_back(5);
 
-	std::cout << "Project Oiler #1: ";
+	std::cout << "Project Euler #1: ";
 	std::cout << std::endl << SumOfMultiples(_list);
 
 	std::cin.get();
